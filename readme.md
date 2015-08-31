@@ -12,13 +12,13 @@
 
 In the console:
 - Create at least 5 instances of the `Post` backbone model
-- use setter methods on of the instances you created to set a new attribute
+- use setter methods on the instances you created to set a new attribute
 - play with getter methods to get attributes of a backbone instance you created
 - Create a `Posts` collection that contains some of the 5 instances you created earlier
 - use methods on a collection to add or set instances of the backbone model to your collection
 
 ### Bonus
-- Use your posts and collections to generate some views!
+- Use your posts' models and collections to generate some views!
 
 ## Part 2
 ### Setup
