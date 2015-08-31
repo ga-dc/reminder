@@ -23,6 +23,7 @@ In the console:
 ## Part 2
 ### Setup
 - Fork/clone the [reminders_rails_api](https://github.com/ga-dc/reminder_rails_api)
+> Note this is explicitly only serving as the backend api endpoint. Continue to use your `index.html` and dependencies there.
 
 ### Add urls
 - add urls to your model and collection definitions
